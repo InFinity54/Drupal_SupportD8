@@ -1,0 +1,14 @@
+uuid: 80de99a2-d472-44ff-90f6-56010108a0a8
+name: 'Support Drupal'
+mail: corentin.kreicher@actimage.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

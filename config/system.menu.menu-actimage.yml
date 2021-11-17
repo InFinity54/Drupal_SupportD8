@@ -1,0 +1,8 @@
+uuid: 4d774896-87af-41d9-87df-9fb2419f0299
+langcode: fr
+status: true
+dependencies: {  }
+id: menu-actimage
+label: 'Menu Actimage'
+description: ''
+locked: false
