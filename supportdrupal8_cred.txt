@@ -1,0 +1,2 @@
+Identifiant : administrateur
+Mot de passe : support@Drupal8_
